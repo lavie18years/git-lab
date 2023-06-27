@@ -5,12 +5,12 @@ export default function Navigation() {
     const { theme, toggle, dark } = useContext(ThemeContext)
     return (
         <div>
-            <nav className='task' style={{ backgroundColor: theme.backgroundColor, color: theme.color }}>
+            <nav className='nav' style={{ backgroundColor: theme.backgroundColor, color: theme.color }}>
                 <ul>
                     <a className='active' style={{color: theme.color }} href='#home'>Home</a>
-                    <a className='active' style={{color: theme.color }} href='#news'>New Films</a>
-                    <a className='active' style={{color: theme.color }} href='#about'>Cinema</a>
-                    <a className='active' style={{color: theme.color }} href='#contact'>Ticket</a>
+                    <a className='active' style={{color: theme.color }} href='#news'>News</a>
+                    <a className='active' style={{color: theme.color }} href='#about'>Contact</a>
+                    <a className='active' style={{color: theme.color }} href='#contact'>About</a>
                 </ul>
                 <div className='switch' style={{ position: 'relative' }}>
                     <a className='switch-mode' href='#' onClick={toggle}

@@ -1,19 +1,22 @@
 import React, { Component } from "react";
-import { Firms } from "../shared/ListOfFirms";
+import { Films } from "../shared/ListOfFirms";
 import { useState } from "react";
+import { Link } from 'react-router-dom'
 export default function Firm() {
     const [film, setFilm] = useState([]);
     return (
         <div>
             <div class="content">
-                {Firms.map((film) => (
+                {Films.map((film) => (
                     <div key={film.id}>
                         <a src={film.img} className="box">
                             <div className="card">
                                 <img src={film.img} alt={film.title} />
                                 <h5>{film.title}</h5>
                                 <p>{film.year} - {film.nation}</p>
+                                <Link to={`detail/${film.id}`}>
                                 <p className="but"><button onClick={() => { setFilm(film) }}><a href='#popup1' id='openPopUp'>Detail</a></button></p>
+                                </Link>
                             </div>
                         </a>
                     </div>

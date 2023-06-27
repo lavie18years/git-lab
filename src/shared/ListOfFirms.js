@@ -1,4 +1,4 @@
-export const Firms =[
+export const Films =[
   {
     id: 1, 
     img:'assets/images/movie1.jpg', 

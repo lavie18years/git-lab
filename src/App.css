@@ -19,27 +19,12 @@
   }
 }
 
-.nav {
-  background-color: black;
-  text-align: left;
-  padding: 20px 0px;
-  padding-left: 25px;
-  display: flex;
+.menu{
   justify-content: space-between;
   align-items: center;
 }
-
-.nav .switch{
-  margin-right: 20px;
-}
-.active {
-  color: aliceblue;
-  padding: 17px 20px;
-  text-decoration: none;
-}
-
-.active:hover {
-  background-color: rgba(255, 0, 0, 0.5);
+.menu .brand-logo{
+  left: 1rem;
 }
 
 .content {
@@ -66,7 +51,6 @@
   width: 100%;
   bottom: 0;
   left: 0;
-  background-color: #344ec1;
   margin-top: 10px;
   padding: 5px 0;
   color: white;
@@ -132,7 +116,7 @@
 }
 
 .container {
-  margin:20px;
+  width: 100%;
 }
 
 .container .row .image_film {
@@ -148,9 +132,20 @@
   background-color: rgba(255, 255, 255, 0.3);
   box-shadow: 0px 5px 10px rgba(250, 146, 0, 0.911);
   width: 800px;
-  margin-left: 20%;
+  margin-left: 12%;
 }
 
 .container .row .product-details .product-info {
   padding: 10px;
+}
+
+.modal-show {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100vw;
+  height: 100vmax;
+  z-index: 99;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
 }

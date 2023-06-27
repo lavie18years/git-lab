@@ -5,7 +5,8 @@ export const Films =[
     title: 'Naruto the Movie: Ninja Clash in the Land of Snow', 
     year: '2004', 
     nation:'Japan',
-    info: '"Naruto the Movie: Ninja Clash in the Land of Snow" follows Naruto and his ninja friends as they protect actress Yukie Fujikaze from an evil ruler in the Snow Country who seeks to exploit her powers. The film showcases exciting ninja battles and explores themes of friendship and perseverance. It is a standalone adventure within the Naruto universe.'
+    info: '"Naruto the Movie: Ninja Clash in the Land of Snow" follows Naruto and his ninja friends as they protect actress Yukie Fujikaze from an evil ruler in the Snow Country who seeks to exploit her powers. The film showcases exciting ninja battles and explores themes of friendship and perseverance. It is a standalone adventure within the Naruto universe.',
+    clip: 'https://www.youtube.com/embed/p2mXWbW9YZI'
   },
   {
     id: 2, 
@@ -13,7 +14,8 @@ export const Films =[
     title: 'Naruto the Movie: Legend of the Stone of Gelel', 
     year: '2005', 
     nation:'Japan',
-    info: '"Naruto the Movie: Legend of the Stone of Gelel" is the second Naruto film released in Japan on August 6, 2005. The movie takes place after the events of the original Naruto series and before the start of Naruto Shippuden. It follows Naruto and his friends as they encounter a mysterious mineral called the Stone of Gelel, which possesses immense power. They become embroiled in a conflict involving a group of rogue ninjas and must find a way to prevent the Stone from falling into the wrong hands. The film explores themes of power, identity, and the bonds of friendship.'
+    info: '"Naruto the Movie: Legend of the Stone of Gelel" is the second Naruto film released in Japan on August 6, 2005. The movie takes place after the events of the original Naruto series and before the start of Naruto Shippuden. It follows Naruto and his friends as they encounter a mysterious mineral called the Stone of Gelel, which possesses immense power. They become embroiled in a conflict involving a group of rogue ninjas and must find a way to prevent the Stone from falling into the wrong hands. The film explores themes of power, identity, and the bonds of friendship.',
+    clip: 'https://www.youtube.com/embed/4EiTuiYlvgo'
   },
   {
     id: 3, 
@@ -21,7 +23,8 @@ export const Films =[
     title: 'Naruto the Movie: Guardians of the Crescent Moon Kingdom', 
     year: '2006', 
     nation:'Japan',
-    info: '"Naruto the Movie: Guardians of the Crescent Moon Kingdom" follows Naruto and his friends as they protect the prince of the Land of the Moon from a power-hungry ruler. They must overcome challenges and work together to save the kingdom. The film explores themes of loyalty and family bonds.'
+    info: '"Naruto the Movie: Guardians of the Crescent Moon Kingdom" follows Naruto and his friends as they protect the prince of the Land of the Moon from a power-hungry ruler. They must overcome challenges and work together to save the kingdom. The film explores themes of loyalty and family bonds.',
+    clip: 'https://www.youtube.com/embed/THXFAVKRs18'
   },
   {
     id: 4, 
@@ -29,7 +32,8 @@ export const Films =[
     title: 'Naruto the Movie: Bonds', 
     year: '2008', 
     nation:'Japan',
-    info: '"Naruto the Movie: Bonds" is the fifth Naruto film released in Japan on August 2, 2008. The movie takes place after the events of Naruto Shippuden and follows Naruto and his friends as they face a group of ninja from the Sky Country who seek revenge on the Hidden Leaf Village. Naruto and his comrades must confront the threat and protect their village while also uncovering the true nature of bonds and friendship. The film explores themes of trust, forgiveness, and the strength of the ninja community.'
+    info: '"Naruto the Movie: Bonds" is the fifth Naruto film released in Japan on August 2, 2008. The movie takes place after the events of Naruto Shippuden and follows Naruto and his friends as they face a group of ninja from the Sky Country who seek revenge on the Hidden Leaf Village. Naruto and his comrades must confront the threat and protect their village while also uncovering the true nature of bonds and friendship. The film explores themes of trust, forgiveness, and the strength of the ninja community.',
+    clip: 'https://www.youtube.com/embed/OkI3ZCEbx_E'
   },
   {
     id: 5, 
@@ -37,7 +41,8 @@ export const Films =[
     title: 'Naruto the Movie: The Will of Fire', 
     year: '2009', 
     nation:'Japan',
-    info: '"Naruto the Movie: The Will of Fire" is the sixth Naruto film released in Japan on August 1, 2009. The movie is set in the Naruto Shippuden series and revolves around a crisis in the Hidden Leaf Village. A rogue ninja steals the village is forbidden scroll, which contains the secrets of powerful jutsu. Naruto and his friends embark on a mission to retrieve the scroll and uncover the truth behind the incident. The film explores themes of sacrifice, loyalty, and the determination to protect one is home.'
+    info: '"Naruto the Movie: The Will of Fire" is the sixth Naruto film released in Japan on August 1, 2009. The movie is set in the Naruto Shippuden series and revolves around a crisis in the Hidden Leaf Village. A rogue ninja steals the village is forbidden scroll, which contains the secrets of powerful jutsu. Naruto and his friends embark on a mission to retrieve the scroll and uncover the truth behind the incident. The film explores themes of sacrifice, loyalty, and the determination to protect one is home.',
+    clip: 'https://www.youtube.com/embed/o0bDuM2tzi0'
   },
   {
     id: 6, 
@@ -45,7 +50,8 @@ export const Films =[
     title: 'Naruto the Movie: The Lost Tower', 
     year: '2010', 
     nation:'Japan',
-    info: '"Naruto the Movie: The Lost Tower" is the seventh Naruto film released in Japan on July 31, 2010. The movie is set during the Naruto Shippuden series and follows Naruto and his friends as they are sent back in time to the ancient city of Rōran. There, they encounter a villain named Mukade, who seeks to use the power of the city is tower for his own nefarious purposes. Naruto must uncover the secrets of the tower and find a way to return to his own time while facing challenging battles and discovering the true meaning of friendship. The film explores themes of time travel, self-discovery, and the bonds that transcend time.'
+    info: '"Naruto the Movie: The Lost Tower" is the seventh Naruto film released in Japan on July 31, 2010. The movie is set during the Naruto Shippuden series and follows Naruto and his friends as they are sent back in time to the ancient city of Rōran. There, they encounter a villain named Mukade, who seeks to use the power of the city is tower for his own nefarious purposes. Naruto must uncover the secrets of the tower and find a way to return to his own time while facing challenging battles and discovering the true meaning of friendship. The film explores themes of time travel, self-discovery, and the bonds that transcend time.',
+    clip: 'https://www.youtube.com/embed/hPerisY9Ppg'
   },
   {
     id: 7, 
@@ -53,7 +59,8 @@ export const Films =[
     title: 'Naruto the Movie: Blood Prison', 
     year: '2011', 
     nation:'Japan',
-    info: '"Naruto the Movie: Blood Prison" is the eighth Naruto film released in Japan on July 30, 2011. The movie is set within the Naruto Shippuden series and follows Naruto as he is falsely accused of a crime and sent to the high-security prison, Hōzuki Castle. While imprisoned, Naruto uncovers a sinister plot and must prove his innocence while battling dangerous inmates and uncovering the truth behind the prison is secrets. The film explores themes of justice, redemption, and the strength of Naruto is unwavering spirit.'
+    info: '"Naruto the Movie: Blood Prison" is the eighth Naruto film released in Japan on July 30, 2011. The movie is set within the Naruto Shippuden series and follows Naruto as he is falsely accused of a crime and sent to the high-security prison, Hōzuki Castle. While imprisoned, Naruto uncovers a sinister plot and must prove his innocence while battling dangerous inmates and uncovering the truth behind the prison is secrets. The film explores themes of justice, redemption, and the strength of Naruto is unwavering spirit.',
+    clip: 'https://www.youtube.com/embed/r9v_r-zIaVI'
   },
   {
     id: 8, 
@@ -61,7 +68,8 @@ export const Films =[
     title: 'Naruto the Movie: Road to Ninja', 
     year: '2012', 
     nation:'Japan',
-    info: '"Naruto the Movie: Road to Ninja" is the ninth Naruto film released in Japan on July 28, 2012. The movie takes place in an alternate universe where Naruto and his friends find themselves transported to a reality where their lives are completely different. Naruto encounters his parents, Minato Namikaze and Kushina Uzumaki, and faces a powerful enemy who threatens both the alternate world and his own. The film explores themes of family, identity, and the bonds between Naruto and his loved ones.'
+    info: '"Naruto the Movie: Road to Ninja" is the ninth Naruto film released in Japan on July 28, 2012. The movie takes place in an alternate universe where Naruto and his friends find themselves transported to a reality where their lives are completely different. Naruto encounters his parents, Minato Namikaze and Kushina Uzumaki, and faces a powerful enemy who threatens both the alternate world and his own. The film explores themes of family, identity, and the bonds between Naruto and his loved ones.',
+    clip: 'https://www.youtube.com/embed/WhPOcizrFqg'
   },
   {
     id: 9, 
@@ -69,6 +77,7 @@ export const Films =[
     title: 'Naruto the Movie: The Last', 
     year: '2014', 
     nation:'Japan',
-    info: '"Naruto the Movie: The Last" is the tenth Naruto film released in Japan on December 6, 2014. The movie is set after the events of the Naruto Shippuden series and serves as a bridge to the Naruto: The Seventh Hokage and the Scarlet Spring manga. It focuses on Naruto is efforts to save Hinata Hyuga, who has been captured by Toneri Ōtsutsuki, a descendant of the Ōtsutsuki clan. Naruto and his friends embark on a mission to rescue Hinata and prevent Toneri is destructive plans. The film explores themes of love, destiny, and the future of the ninja world.'
+    info: '"Naruto the Movie: The Last" is the tenth Naruto film released in Japan on December 6, 2014. The movie is set after the events of the Naruto Shippuden series and serves as a bridge to the Naruto: The Seventh Hokage and the Scarlet Spring manga. It focuses on Naruto is efforts to save Hinata Hyuga, who has been captured by Toneri Ōtsutsuki, a descendant of the Ōtsutsuki clan. Naruto and his friends embark on a mission to rescue Hinata and prevent Toneri is destructive plans. The film explores themes of love, destiny, and the future of the ninja world.',
+    clip: 'https://www.youtube.com/embed/SDIvvapG0sE'
   }
 ];
